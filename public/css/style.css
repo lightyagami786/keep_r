@@ -1,0 +1,9 @@
+#navbar{
+    display: inline;
+    justify-content: space-between;
+    /* background-color: brown; */
+}
+
+.make-border{
+    border: 2px solid green;
+}
